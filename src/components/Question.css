@@ -1,0 +1,25 @@
+#question {
+    background-color: rgb(98, 131, 223);
+    border-radius: 1rem;
+    padding: 2rem;
+    width: 950px;
+    height: px;
+    margin-bottom: 3rem;
+  }
+  
+  #question p {
+    margin-bottom: 1rem;
+  }
+  
+  #question h2 {
+    margin-bottom: 2rem;
+  }
+
+  #question h3 {
+    margin-bottom: 1rem;
+  }
+  
+  #question button {
+    border: 2px solid #fff;
+    margin: 1rem;
+  }
